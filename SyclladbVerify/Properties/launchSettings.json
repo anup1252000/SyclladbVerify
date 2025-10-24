@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SyclladbVerify": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
